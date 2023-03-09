@@ -17,7 +17,7 @@ In addition, this project will include:
 * The board of lead players
 
 # Wireframes
-<img src="https://imgur.com/gallery/TA94Ode"  width="40%">
+<img src="https://i.postimg.cc/Yqx6CpGk/wireframe.png"  width="40%">
 <!-- (https://i.imgur.com/WmzEkKc.png) -->
 
 # Technologies, Libraries, APIs
