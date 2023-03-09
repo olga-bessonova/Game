@@ -3,18 +3,18 @@
   "version": "1.0.0",
   "description": "# Background A side-scrolling game where the main character bunny needs to get from start to finish. The main goal of the game is to teach a player foundation of Python while entertaining with the game process. Along the way the bunny defeats enemies by jumping on top of them. The bunny starts with several lives. The bunny loses lives if an enemy bites or the bunny fall through the gap on a map. Along the way bunny collects coins. The map has key points where Python material with a question pops up. If answered correctly, the bunny proceeds, if not answered correctly the bunny loses 1 life.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "webpack --watch --mode=development",
+  "browserslist": [
+    "defaults"
+  ],
+  "scripts": {    
+    "watch": "webpack --watch --mode=development", 
     "build": "webpack --mode=production"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/olga-bessonova/Game.git"
   },
-  "browserslist": [
-    "defaults"
-  ],
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
