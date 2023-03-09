@@ -25,3 +25,32 @@ In addition, this project will include:
 * HTML
 * CSS3
 * Google Fire
+
+
+
+# Timeline
+## Day 1: Research (Friday)
+* Research sprite, canvas and google fire. 
+* Set up HTML
+* Add canvas
+* Implement a Class bunny (square instead of a bunny). Make it move and drop with a gravity
+
+## Day 2 (Saturday)
+* Skeleton setup
+* Render background and canvas 
+* Render blocks and coins 
+* Add restart and sound buttons. Add navigation
+
+## Day 3-5 (Sunday - Tuesday)
+* Add live score and lives left
+* Connect left, right, space to movement and jumping
+* Add key points
+* Add coins and logic behind it (scoring)
+* Add google fire
+
+
+
+## Day 6 (Wednesday)
+* Add enemies and logic behind it
+* Add collision detection
+* Add sound 

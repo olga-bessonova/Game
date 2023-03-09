@@ -1,0 +1,18 @@
+1. bunny animation
+2. blocks animation
+3. coins animation
+4. background animation
+5. enemy animation
+6. key point animation
+7. live score count
+
+
+
+1. Setup background
+2. My character is a square
+3. Setup a map with blocks and gaps
+4. Connect left, right, space to movement and jumping
+
+1. At first make a square to get from start to finish
+2. Add blocks and gaps
+3. Add key points where python will be rendered
