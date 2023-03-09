@@ -17,7 +17,8 @@ In addition, this project will include:
 * The board of lead players
 
 # Wireframes
-![Wireframe](https://imgur.com/a/TA94Ode)
+![Wireframe](https://imgur.com/gallery/TA94Ode)
+![Wireframe](https://i.imgur.com/WmzEkKc.png)
 
 # Technologies, Libraries, APIs
 * Canvas
